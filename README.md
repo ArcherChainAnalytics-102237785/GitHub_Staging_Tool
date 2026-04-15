@@ -1,2 +1,4 @@
-# GitHub_Staging_Tool
-⚠️ PRIVATE AND PROPRIETARY. Copyright © 2026 Archer Chain Analytics. All rights reserved.
+# Archer_Chain_Analytics GitHub_Staging_Tool
+
+Copyright 2026 Archer Chain Analytics
+
